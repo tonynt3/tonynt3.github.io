@@ -17,13 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-<a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
-          ></a>
           
 Hi, I'm Tony, a student at Georgia Tech, pursuing my Bachelor's in Computer Science, specializing in Information Internetworks and Cybersecurity, with a minor in Computing and Business through the Denning Technology & Management Program.
 
