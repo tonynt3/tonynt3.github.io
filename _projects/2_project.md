@@ -29,7 +29,7 @@ After much research and trail and error, our team decided that a web-application
     Home page for Sublease Secured Webapp.
 </div>
 
-Using the React framework and Tailwind CSS, our team developed this application with 3 suplimmental pages, "Find a Sublease", "Lease your Apartment", and "Generate Contract". The page for finding a sublease was intended to be a page similar to AirB&B's UI for finding temporary places to stay, we incorperated a simple search feature and a short list of example listings for the user to browse through. 
+Using the React framework and Tailwind CSS, our team developed this application with 3 suplimmental pages, "Find a Sublease", "Lease your Apartment", and "Generate Contract". The page for finding a sublease was intended to be a page similar to AirB&B's UI for finding temporary places to stay, we incorperated a simple search feature and a short list of example listings for the user to browse through.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
@@ -40,7 +40,7 @@ Using the React framework and Tailwind CSS, our team developed this application 
     Page found under the "Find a Sublease" tab.
 </div>
 
-Most importantly, the contract generation page, which uses a JavaScript backend to replace user input and information into the premeditated subleasing contract, is used to make the subleasing process reliable and secure for users. An issue we found during the research phase of this cycle was that students were unsure if they would be garunteed their money and safety of their apartment, which was a problem we hope to solve with this contract generator seen below. 
+Most importantly, the contract generation page, which uses a JavaScript backend to replace user input and information into the premeditated subleasing contract, is used to make the subleasing process reliable and secure for users. An issue we found during the research phase of this cycle was that students were unsure if they would be garunteed their money and safety of their apartment, which was a problem we hope to solve with this contract generator seen below.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">

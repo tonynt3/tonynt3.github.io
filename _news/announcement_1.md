@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
 Completed TryHackMe's Web Fundamentals course, and completed my first CTF!

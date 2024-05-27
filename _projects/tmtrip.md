@@ -32,7 +32,7 @@ In Panama City, one of our visits included learning about one of the largest shi
     Left: Antonio Dominguez presenting to us students. Right: Some of our group in Panama City.
 </div>
 
-For this trip, students were divided up into groups for each visit, and my group was lucky to learn about the Toucan Rescue Ranch in Costa Rica. We were warmly welcomed by the Environmental Education Coordinator at the TRR, Stephanie Valle Cubero, who  guided us through the ranch and introduced us to the fascinating world of wildlife conservation.
+For this trip, students were divided up into groups for each visit, and my group was lucky to learn about the Toucan Rescue Ranch in Costa Rica. We were warmly welcomed by the Environmental Education Coordinator at the TRR, Stephanie Valle Cubero, who guided us through the ranch and introduced us to the fascinating world of wildlife conservation.
 
 We saw sloths hanging from branches, toucans gracing the skies, agile wildcats, and mysterious owls. Every moment was a glimpse into the wonders of nature in Costa Rica. We also learned many facts about these animals, including how sloths move slowly to conserve energy, and how toucans have regenerative tongues. This was a wonderful and very educational experience that us students were very appreciative of.
 
