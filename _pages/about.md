@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Tony, a student at Georgia Tech, pursuing my Bachelor's in Computer Science, specializing in Information Internetworks and Cybersecurity, with a minor in Computing and Business through the Denning Technology & Management Program.
 
-When I'm not buried in code or grinding in the library, I may be working on my leadership skills as VP of Recruitment for Beta Theta Pi Fraternity or handling administrative duties as Administrative VP for the Interfraternity Council, which you can learn more about [here](/al-folio/leadership/).
+I have a strong interest in the Cybersecurity field and areas such as penetration testing and vulnerability research, which I now spent my free time trying to learn. Outside of this, I enjoy playing electric guitar, Clash of Clans, and golf.
 
 Additionally, I've studied abroad (twice), and have completed a few projects which you can learn more about [here](/al-folio/projects/).
 
