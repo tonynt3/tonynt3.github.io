@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
-importance: 1
-category: work
+title: HackGTX
+description: Precision Tune Guitar Tuner App
+img: assets/img/hackgtlogo.png
+importance: 3
+category: Projects
 related_publications: true
 ---
 

@@ -1,25 +1,38 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+cv_pdf: resume.pdf
+subtitle: Student at <a href=https://www.cc.gatech.edu//>Georgia Institue of Technology</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Georgia Tech</p>
+    <p>Atlanta, Georgia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
 ---
+<a
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="float-right"
+            ><i class="fa-solid fa-file-pdf"></i
+          ></a>
+          
+Hi, I'm Tony, a student at Georgia Tech, pursuing my Bachelor's in Computer Science, specializing in Information Internetworks and Cybersecurity, with a minor in Computing and Business through the Denning Technology & Management Program.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+When I'm not buried in code or grinding in the library, I may be working on my leadership skills as VP of Recruitment for Beta Theta Pi Fraternity or handling administrative duties as Administrative VP for the Interfraternity Council, which you can learn more about [here](/al-folio/leadership/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Additionally, I've studied abroad (twice), and have completed a few projects which you can learn more about [here](/al-folio/projects/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out to me with the links at the bottom of this page!
+
+<!-- [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+

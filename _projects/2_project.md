@@ -1,81 +1,54 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Sublease Secured
+description: Product Development Startup
+img: assets/img/sslogo.png
+importance: 1
+category: Projects
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+To introduce my Product Development Class in Spring 2024, our professor tasked us with identifying and confirming a real and unsolved issue currently impacting the world some way or another. After months of interviewing and brainstorming, our group indentified and set out to solve the issue of college student subleasing. Every year, many students are left with no choice but to sign a year long lease for housing over the school year, but it is very common for these students to end up leaving campus for a semester for something like an internship, study abroad, or simply going home for the summer. Based on our analysis, the biggest current solution for Georgia Tech students to find a sublease or someone to take over their sublease is to advertise on social media platforms such as Facebook and GroupMe, but it is easy to understand how inefficient of a solution this is, and that is where our team decided to step in.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ssfinal.png" title="Poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Poster for Overview and Presentation.
 </div>
+
+After much research and trail and error, our team decided that a web-application would be the ideal solution to this issue. Our initial objective was to create a software that connected students that were looking for a sublease, but upon further investigation, we realized that the issue goes beyond connectivity. Our final product displays a software that authenticates users as college students, and gives them the option to connect with other students, as well as doing some of the backend work by creating a contract that makes the subleasing process SECURE and legal. Below you can see the UI for the home page of our Webapp.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sshome.png" title="Home Page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Home page for Sublease Secured Webapp.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Using the React framework and Tailwind CSS, our team developed this application with 3 suplimmental pages, "Find a Sublease", "Lease your Apartment", and "Generate Contract". The page for finding a sublease was intended to be a page similar to AirB&B's UI for finding temporary places to stay, we incorperated a simple search feature and a short list of example listings for the user to browse through. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ssminiscreen.png" title="Find a Sublease" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Page found under the "Find a Sublease" tab.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Most importantly, the contract generation page, which uses a JavaScript backend to replace user input and information into the premeditated subleasing contract, is used to make the subleasing process reliable and secure for users. An issue we found during the research phase of this cycle was that students were unsure if they would be garunteed their money and safety of their apartment, which was a problem we hope to solve with this contract generator seen below. 
 
-{% raw %}
-
-```html
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sscontract.png" title="Contract Generator" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    Page found under the "Generate Contract" tab.
+</div>
 
-{% endraw %}
+The development of this application is still in progress, and our group is currently working on using DUO Mobile's API to create a trustworthy authentication process for users that intend to use our product. Upon completion of this, we hope to take our product to Georgia Tech's CreateX Startup Launch program, and hope to recieve funding and host the website for users. Although our product is not complete, we have finished the product development class with this product, and showcased it to many other students and coorperate sponsers, where we gathered much support and feedback, as well as taking the 1st place award for most fundable product. The creation of this has been a great learning experience and I am excited to see where this takes us.
