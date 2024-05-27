@@ -5,7 +5,6 @@ description: Computer Organization and Programming Project
 img: assets/img/spinvdr.png
 importance: 2
 category: Projects
-giscus_comments: true
 ---
 
 As an assignmnet for my Computer Organization & Programming class (CS2110), my assignment was to create a game using the programming language C and Game Boy Advance to run the game. Throughout this class, we progressed from learning machine code, to assembly code, to C, and in this assignment, I used my comprehensive understanding of these topics to recreate the game "Space Invaders" in my spinoff "Spinvaders".

@@ -21,7 +21,7 @@ Hi, I'm Tony, a student at Georgia Tech, pursuing my Bachelor's in Computer Scie
 
 I have a strong interest in the Cybersecurity field and areas such as penetration testing and vulnerability research, which I now spent my free time trying to learn. Outside of this, I enjoy playing electric guitar, Clash of Clans, and golf.
 
-Additionally, I've studied abroad (twice), and have completed a few projects which you can learn more about [here](/al-folio/projects/).
+Additionally, I've studied abroad (twice), and have completed a few projects which you can learn more about [here](/projects/).
 
 Feel free to reach out to me with the links at the bottom of this page!
 

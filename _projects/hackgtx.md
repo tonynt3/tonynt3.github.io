@@ -5,7 +5,6 @@ description: Precision Tune Guitar Tuner App
 img: assets/img/hackgtlogo.png
 importance: 3
 category: Projects
-related_publications: true
 ---
 
 Due to my lack of project experience in late 2023, I decided to enter my first hackathon at Georgia Tech's HackGTX. I came in with no ideas or preparation, and then the 2 day timer started. When brainstorming, I lached onto two things. First of all, I wanted to create an IPhone app, as I knew it would be a very important skill and I had no idea how to create one. Secondly, I wanted to involve my interest of playing the guitar. Below is the README for this project:
