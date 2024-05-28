@@ -51,4 +51,15 @@ Most importantly, the contract generation page, which uses a JavaScript backend 
     Page found under the "Generate Contract" tab.
 </div>
 
-The development of this application is still in progress, and our group is currently working on using DUO Mobile's API to create a trustworthy authentication process for users that intend to use our product. Upon completion of this, we hope to take our product to Georgia Tech's CreateX Startup Launch program, and hope to recieve funding and host the website for users. Although our product is not complete, we have finished the product development class with this product, and showcased it to many other students and coorperate sponsers, where we gathered much support and feedback, as well as taking the 1st place award for most fundable product. The creation of this has been a great learning experience and I am excited to see where this takes us.
+Upon the end of the semester, we had to present our idea and demonstrate our prototype to fellow students, professors, and coorporate affiliates of the Denning Technology and Management Program. After the semester of hard work and many obstacles, our group was very excited to win the award for most fundable project, which was voted on by the audience which we presented to.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ssawardpic.png" title="Group Pic" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Our team winning the award.
+</div>
+
+The development of this application is still in progress, and our group is currently working on using DUO Mobile's API to create a trustworthy authentication process for users that intend to use our product. Upon completion of this, we hope to take our product to Georgia Tech's CreateX Startup Launch program, and hope to recieve funding and host the website for users. Although our product is not complete, we have finished the product development class with this idea, and showcased it to many other, where we gathered much support and feedback. The creation of this has been a great learning experience and I am excited to see where this takes us.
