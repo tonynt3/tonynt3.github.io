@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [Projects, Travel, Studies]
+display_categories: [Projects, Studies, Travel]
 horizontal: false
 ---
 
