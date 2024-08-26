@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-22 07:59:00-0400
+date: 2024-08-18 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Sublease Secured Poster Competition, won award for most likely to get funded
+Just started a Vertically Integrated Project (Embedded Systems Cybersecurity) for my Junior Design Assignment!
