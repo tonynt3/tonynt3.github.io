@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 cv_pdf: resume.pdf
-subtitle: Student at <a href=https://www.cc.gatech.edu//>Georgia Institue of Technology</a>
+subtitle: Student at <a href=https://www.cc.gatech.edu//>Georgia Institute of Technology</a>
 profile:
   align: right
   image: prof_pic.png
