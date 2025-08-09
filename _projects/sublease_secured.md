@@ -3,7 +3,7 @@ layout: page
 title: Sublease Secured
 description: Product Development Startup
 img: assets/img/sslogo.png
-importance: 2
+importance: 3
 category: Projects
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OSINT Threat Assessment Tool
-description: Capstone for risk3sixty
+description: Capstone project for risk3sixty
 img: assets/img/osint_logo.png
 importance: 1
 category: Projects

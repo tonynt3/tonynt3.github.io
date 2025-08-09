@@ -4,7 +4,7 @@ title: T&M International Experience
 description: Study Abroad in Costa Rica and Panama
 img: assets/img/tmtripcover.png
 importance: 2
-category: Travel
+category: Study Abroad
 ---
 
 For Spring break of 2024, I was lucky to have the opportunity to travel to San Jose, Costa Rica and Panama City, Panama with many of my peers and professors through the Denning Technology and Management Program here at Georgia Tech. We spent the week not only establishing ourselves within Latin American culture, but also learning about the business practices that take place in other countries. Our group had the opportunity to visit companies such as Maersk, Dicarina, EnfraGen, The Toucan Rescue Ranch, and many more!

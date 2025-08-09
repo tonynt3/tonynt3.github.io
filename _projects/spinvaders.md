@@ -3,7 +3,7 @@ layout: page
 title: Spinvaders
 description: Computer Organization and Programming Project
 img: assets/img/spinvdr.png
-importance: 3
+importance: 4
 category: Projects
 ---
 

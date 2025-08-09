@@ -3,8 +3,8 @@ layout: page
 title: TryHackMe
 description: Independant Study for Cybersecurity
 img: assets/img/thmlogo.png
-importance: 1
-category: Studies
+importance: 3
+category: Cybersecurity
 ---
 
 To start my journey of learning offensive security, and to prepare for my security based courses, I have resorted to TryHackMe to teach myself this information. TryHackMe has many different learning paths, targeted towards different careers, and I have been focusing mainly on security engineering basics, and introductory penetration testing. With the knowledge I have gained so far, I have been able to complete a few CTFs, and have been continuing to learn every day, as I am now working on the Offensive Pentesting learning path.

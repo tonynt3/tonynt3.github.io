@@ -4,7 +4,7 @@ title: Georgia Tech Europe
 description: Study Abroad based in Metz, France
 img: assets/img/gtlcover.png
 importance: 2
-category: Travel
+category: Study Abroad
 ---
 
 Never in a million years did I think that I would study abroad for 3 months in college, but thats what happened. Through Georgia Tech's GTE (Georgia Tech Europe) study abroad program, my friends and I had the opportunity to stay in Metz, France for the Summer of 2023, and take classes in person at the GTE building in Metz. Through this experience, it is safe to say that I learned a lot, and overcomed a good bit of adversity while I was at it. My group and I were able to travel to 12 different countries over this Summer, some including, Germany, Belgium, Hungary, Austria, Luxembourg, Italy, Spain, and more, all while taking classes in person Monday through Thursday.

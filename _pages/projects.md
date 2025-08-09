@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [Projects, Studies, Travel]
+display_categories: [Projects, Cybersecurity, Study Abroad]
 horizontal: false
 ---
 

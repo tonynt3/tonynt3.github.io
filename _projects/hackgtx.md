@@ -3,7 +3,7 @@ layout: page
 title: HackGTX
 description: Precision Tune Guitar Tuner App
 img: assets/img/hackgtlogo.png
-importance: 4
+importance: 6
 category: Projects
 ---
 
