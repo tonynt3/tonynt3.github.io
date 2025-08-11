@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OSINT Threat Assessment Tool
-description: Capstone project for risk3sixty
+description: Cybersecurity project for risk3sixty
 img: assets/img/osint_logo.png
 importance: 1
 category: Projects
@@ -16,7 +16,7 @@ Project Excecutive Summary:
   style="border: none;">
 </iframe>
 
-To conclude the Denning T&M Program, I was placed on a capstone team to work with a company to identify and solve a problem within a company. Our team created a tool that generates routine cyber threat assessment reports for companies interested in strengthening their cybersecurity environment. A company will fill out a profile page that will guide the tool to scrape relevant information from six open-source intelligence sites and generate a personalized report enhanced by artificial intelligence. The tool is hosted on a webpage connected to risk3sixty's website and is free of charge for users. Companies can request automatic updated reports be emailed to the firm on a routine basis and the report fulfills cybersecurity compliance requirements such as ISO 27001 5.7A. This tool supports small-to-medium sized firms in understanding how to improve their security and prevent vulnerabilities and threat actors.
+To conclude the Denning T&M Program, I was placed on a capstone team to work with a risk3sixty to identify and solve a problem within the company. Our team created a tool that generates routine cyber threat assessment reports for companies interested in strengthening their cybersecurity environment. A company will fill out a profile page that will guide the tool to scrape relevant information from six open-source intelligence sites and generate a personalized report enhanced by artificial intelligence. The tool is hosted on a webpage connected to risk3sixty's website and is free of charge for users. Companies can request automatic updated reports be emailed to the firm on a routine basis and the report fulfills cybersecurity compliance requirements such as ISO 27001 5.7A. This tool supports small-to-medium sized firms in understanding how to improve their security and prevent vulnerabilities and threat actors.
 
 Project Demo:
 
