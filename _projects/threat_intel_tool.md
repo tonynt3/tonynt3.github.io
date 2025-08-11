@@ -30,11 +30,13 @@ Project Demo:
   Demo of Threat Assessment Tool
 </div>
 
+Following the final demo and presentation of this project, our team was selected to present again in front of our professors and peers within the Denning T&M program. Ultamitely, we were selected as the first-place winners for "Best Capstone Project", following the graduation of program.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tm_award.jpg" title="Home Page" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Our team at the award ceremony
+    Our team winning the award at the T&M graduation ceremony
 </div>
